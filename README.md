@@ -6,4 +6,4 @@
 #No potential outlier was observed across four drugs (Caponmulin, Ramicane, Infubinol, Ceftamin) except Infubinol with one final tumor volume below the lower bound of its quartile analysis.
 #From the quartile analysis and its box plot, Ramicare was shown to have a bit larger interquartile range than Capomulin in the final turmor volume. Both have lower median final tumor volume than Infubinol and Certamin in the final tumor volume.
 #This was further shown in the downward trend observed in the Capmulin treatment of mouse b128 across time.
-#From the scatter plots and the analysis of correlation and regression, the average tumor volume was shown to be positively correlated with the increase in weight (r=0.84).
+#From the scatter plots and the analysis of correlation and regression, the average tumor volume was shown to be positively correlated with the increase in weight (r=0.84) in the Capomulin regimen.
