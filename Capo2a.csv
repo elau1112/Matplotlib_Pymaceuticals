@@ -1,0 +1,11 @@
+,Mouse ID,Timepoint,Tumor Volume (mm3),Metastatic Sites,Drug Regimen,Sex,Age_months,Weight (g)
+1805,y793,0,45.0,0,Capomulin,Male,17,17
+1806,y793,5,41.01991315,0,Capomulin,Male,17,17
+1807,y793,10,41.63001026,1,Capomulin,Male,17,17
+1808,y793,15,42.28366512,1,Capomulin,Male,17,17
+1809,y793,20,40.71642815,2,Capomulin,Male,17,17
+1810,y793,25,38.9927339,2,Capomulin,Male,17,17
+1811,y793,30,35.72602314,2,Capomulin,Male,17,17
+1812,y793,35,36.3278696,2,Capomulin,Male,17,17
+1813,y793,40,31.47541076,2,Capomulin,Male,17,17
+1814,y793,45,31.896238399999998,2,Capomulin,Male,17,17
